@@ -48,3 +48,20 @@ falco/
 admission-control/
 observability/
 docs/
+```
+
+---
+
+## SIEM & Threat Detection Integration
+
+The platform simulates Kubernetes security monitoring and SIEM integration workflows.
+
+Implemented concepts:
+
+- Runtime threat detection with Falco
+- SIEM integration concepts
+- MITRE ATT&CK mapping
+- Threat monitoring workflows
+- Detection engineering principles
+
+The project demonstrates cloud-native security monitoring approaches used in enterprise environments.
