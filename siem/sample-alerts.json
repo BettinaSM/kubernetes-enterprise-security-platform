@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-05-19T10:00:00Z",
+    "severity": "high",
+    "source": "falco",
+    "event": "Shell spawned inside container",
+    "container": "nginx-secure",
+    "mitre_technique": "T1059"
+  },
+  {
+    "timestamp": "2026-05-19T10:05:00Z",
+    "severity": "medium",
+    "source": "falco",
+    "event": "Suspicious process execution",
+    "container": "secure-platform",
+    "mitre_technique": "T1611"
+  }
+]
