@@ -65,3 +65,18 @@ Implemented concepts:
 - Detection engineering principles
 
 The project demonstrates cloud-native security monitoring approaches used in enterprise environments.
+
+---
+
+## Enterprise Security Workflow
+
+The platform simulates an enterprise Kubernetes security monitoring workflow:
+
+1. Kubernetes runtime activity occurs
+2. Falco detects suspicious behavior
+3. Security events are generated
+4. Alerts are forwarded to SIEM platforms
+5. MITRE ATT&CK techniques are mapped
+6. Incident investigation workflows are initiated
+
+This approach demonstrates modern cloud-native security operations concepts.
